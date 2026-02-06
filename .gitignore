@@ -1,0 +1,4 @@
+.log index.css
+node_modules/
+dist/
+.env
